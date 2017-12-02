@@ -1,2 +1,3 @@
-# perceptron
-Python implementation of Perceptron
+# Perceptron
+
+Perceptron implemented in Python
